@@ -1,0 +1,1 @@
+It is possible to delete and add a new user. When a user is added, the form fields are validated using YUP, and the Controller is used to interact the React Hook Forms with the MUI.
